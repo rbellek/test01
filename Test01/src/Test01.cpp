@@ -9,8 +9,8 @@
 #include <iostream>
 
 int main() {
-	using namespace std;
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+
+	std::cout << "!!!Hello World!!!" << std::endl; // prints !!!Hello World!!!
 
 	return 0;
 }
